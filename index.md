@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 嘿嘿嘿，自己做的网页，嘿嘿嘿
 
 You can use the [editor on GitHub](https://github.com/VrayLiXy/myH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
